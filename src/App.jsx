@@ -1,5 +1,5 @@
 import React, {useEffect,useState} from 'react'
-import MainLayout from './layouts/MainLayout';
+import MainLayout from './layouts/MainLayouts';
 import { Route, Routes } from 'react-router-dom'
 import Like from "./pages/Like"
 import Home from "./pages/Home"
